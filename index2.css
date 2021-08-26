@@ -1,0 +1,13 @@
+body{
+	background-color: plum;
+	text-align: center;
+}
+
+#title{
+	color: white;
+}
+
+#image{
+	border: 3px solid white;
+	border-radius: 800px;
+}
